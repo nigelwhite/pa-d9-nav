@@ -3,6 +3,8 @@ Drupal 9
 Theme https://www.drupal.org/project/bootstrap5
 Subtheme web/themes/custom/b5subtheme
 
+Repo https://github.com/nigelwhite/pa-d9-nav
+
 This is an empty-of-data Drupal 9 site to develop and test a responsive main menu for the upcoming Drupal 9 Permaculture Association site.
 
 Aims

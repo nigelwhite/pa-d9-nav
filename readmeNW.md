@@ -22,6 +22,13 @@ The task
 - insert Bootstrap classes into the main menu twig template at web/themes/custom/b5subtheme/templates/menu--main.html.twig
 - so that the fly-out off-canvas menu works on small screens
 
+What I have done
+
+- created a subtheme b5subtheme
+- inserted the js and css from the Bootstrap example
+- registered the js and css as a library in the subtheme
+- created some example menu links in a Main Menu
+
 No need to tidy up the appearance of the theme. We haven't had the brief for the colours/spacing/font etc yet from our design colleague (who hasn't been appointed yet!)
 
 To generate the site
